@@ -1,0 +1,9 @@
+{
+"uuid": "your@uuid.domain",
+"name": "Your extension",
+"description": "What it does",
+"original-author": "your@mail.address",
+"shell-version": [ "3.8" ],   
+"settings-schema": "org.gnome.shell.extensions.yourextension",
+"gettext-domain": "yourextension"
+}
